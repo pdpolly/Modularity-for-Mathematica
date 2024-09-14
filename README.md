@@ -6,7 +6,7 @@ The basic component of studying modularity and integration is identifying packag
 
 <b>Installing the Modularity for Mathematica package</b>
 <ol>
-<li>Download <a href="https://github.com/pdpolly/Morphometrics-for-Mathematica/releases/latest">the latest release</a>, which is in Mathematica's .m format</li>
+<li>Download <a href="https://github.com/pdpolly/Modularity-for-Mathematica/releases/latest">the latest release</a>, which is in Mathematica's .m format</li>
 <li>Open the file in Mathematica</li>
 <li>Under the File menu, choose “Install”</li>
 <li>Under Type of Item choose “Package”, under source choose the file you just saved, under Install Name enter “Modularity”.</li>
